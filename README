@@ -1,5 +1,6 @@
-La partie importante est en js, index.html est construite a partir du fichier js.
+Le traitement est en javascript, index.html est construite a partir du fichier js.
 
-La page affiche par defaut un tableau précisant le nom du cours d'eau de la sonde, la date du prélèvement et la température de l'eau.
-La présentation n'est pas mon fort mais j'ai ajouté une fonctionnalité a l'aide d'un input et bouton qui permet d'intéroger les sondes présentes dans le département dont l'utilisateur a entré le code postal.
-D'autres information rapporté par les sondes sont accessibles mais ne sont pas affichés.
+La page affiche dans un tableau : le nom du cours d'eau, la date du prélèvement et la température de l'eau.
+Une zone de saisie et un bouton permettent d'interroger les sondes présentes dans le département via le code postal.
+D'autres informations rapportées par les sondes sont disponibles mais ne sont pas exploitées dans cette version.
+La présentation est brut.
