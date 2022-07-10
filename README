@@ -1,5 +1,9 @@
 Le traitement est en javascript, index.html est construite a partir du fichier js.
 
+index.html : la page d'affichage du projet, il faut l'ouvrir dans un navigateur web pour avoir un apperçu de ce derniers.
+style.css : un fichier css pour esseyer de rendre plus agréable index.html.
+monScript.js : un fichier js qui construit en partie index.html (le tableau sensé restituer les données a l'utilisateur) et qui récupère les information de l'API.
+
 La page affiche dans un tableau : le nom du cours d'eau, la date du prélèvement et la température de l'eau.
 Une zone de saisie et un bouton permettent d'interroger les sondes présentes dans le département via le code postal.
 D'autres informations rapportées par les sondes sont disponibles mais ne sont pas exploitées dans cette version.
